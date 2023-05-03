@@ -1,0 +1,15 @@
+/* Set the background color and font styles for the entire page */
+body {
+    background-color:hotpink;
+
+.first { 
+    background-color: blueviolet;
+    text-decoration: overline
+}
+ #second { 
+        color: greenyellow;
+        text-decoration:underline; 
+    }     
+.third { 
+color:darkblue
+}
