@@ -1,0 +1,21 @@
+form {
+    color: rgb(46, 43, 226);
+    background-color:hotpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande' 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+h1 {   
+   color: aqua;
+   background-color: blueviolet;
+   font-style: italic;
+   text-align: center;
+    }     
+p { 
+color:darkred;
+background-color: lightsalmon;
+text-transform:lowercase;
+}
+li { 
+    color:firebrick;
+    font-size: larger;
+    font-style: initial;
+    }

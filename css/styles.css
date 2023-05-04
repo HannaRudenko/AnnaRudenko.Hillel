@@ -1,15 +1,22 @@
 /* Set the background color and font styles for the entire page */
 body {
     background-color:hotpink;
+    text-align: center;
 
 .first { 
     background-color: blueviolet;
-    text-decoration: overline
+    text-decoration: overline;
+    
 }
  #second { 
         color: greenyellow;
         text-decoration:underline; 
+        font-style: italic;
+        text-align:left;
     }     
 .third { 
-color:darkblue
+color:darkblue;
+font-size: larger;
+font-style: italic;
+text-align: center;
 }
